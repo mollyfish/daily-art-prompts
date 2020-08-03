@@ -32,6 +32,9 @@
     'is a flower',
     'is a snake',
     'has bushy eyebrows',
+    'has a mustache',
+    'has droopy ears',
+    'eating an apple',
   ];
   const fantastic = [
     'has six eyes',
@@ -60,6 +63,12 @@
     'has scales',
     'breathes fire',
     'has roots',
+    'juggling',
+    'flying',
+    'has snakes for hair',
+    'has four eyes',
+    'has a twin',
+    'is invincible'
   ];
   const garb = [
     'a top hat',
@@ -89,6 +98,13 @@
     'ski pants',
     'a dunce cap',
     'a blindfold',
+    '3 coats',
+    'a puffy coat',
+    'a bowler hat',
+    'a cowboy hat',
+    'a crash helmet',
+    'ski goggles',
+    'a propeller beanie',
   ];
   const colors = [
     'red',
