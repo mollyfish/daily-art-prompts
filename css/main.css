@@ -1,0 +1,15 @@
+body {
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+}
+
+#prompt-list {
+  height: 150px;
+}
+
+#prompt-list li {
+  margin: 10px 10px 0 10px;
+}
